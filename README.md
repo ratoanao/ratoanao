@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Luiz Gustavo Vivi</h1>
-<h3 align="center">Apaixonado em Ciência de Dados e Machine Learning</h3>
+<h3 align="center">Apaixonado por Ciência de Dados e Machine Learning</h3>
 
 - 🌱 Atualmente estudando Python e Machine Learning **Machine Learning: Classificação por trás dos panos**
 
